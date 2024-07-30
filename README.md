@@ -3,7 +3,7 @@
 
 
 - 🌱 Estudando Js
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: Blá Blá/ blá
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
